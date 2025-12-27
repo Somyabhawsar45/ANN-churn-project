@@ -1,9 +1,7 @@
 tensorflow==2.12.0
-protobuf==3.20.*
-pandas 
-numpy 
-scikit-learn
-tensorboard
+numpy==1.23.5
+pandas
+scikit-learn==1.7.2
+ml-dtypes==0.2.0
 matplotlib
 streamlit
-scikeras
